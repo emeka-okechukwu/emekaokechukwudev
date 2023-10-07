@@ -16,6 +16,7 @@ I'm a Full Stack Web Developer who loves making websites and web applications th
 
 <p align="left"><a href="https://www.linkedin.com/in/emeka-okechukwu-0410/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emeka-okechukwu-dev&show_icons=true&locale=en&layout=compact" alt="emeka-okechukwu-dev" /></p>
 
 <!--
 **emekaokechukwudev/emekaokechukwudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
